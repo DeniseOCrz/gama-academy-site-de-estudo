@@ -1,0 +1,78 @@
+body {
+    width: 100%; /*largura de 100% para o conteúdo */
+    height: 100%; /*altura de 100% para o conteúdo */
+    margin: 0 auto;
+}
+ul {
+    padding: 0px !important;
+}
+.menu-principal {
+    width: 100%; /*largura da tela*/
+    background-color:#252323; /*cor de fundo da menu-principal */
+    height: 60px; /*altura 60pixes */
+}
+
+main {
+    margin: 0 auto; /* centralizar o container */
+    width: 980px; /*largura do container */
+    position: relative; /* alinhado relativamente a posição do container*/
+}
+
+.logo {
+    float: left;
+    padding: 16px; /*define uma a distância entre o conteúdo de um elemento e suas bordas*/
+    width: 70%;
+}
+
+.redes-sociais ul li {
+    margin-left: 15px;
+    display: inline-block; /* deixar os elementos na mesma linha e também setar a altura e a largura*/
+    float: left;
+    list-style: none;
+}
+
+.redes-sociais {
+    width: 25%;
+    float: right;
+}
+
+.header-2 {
+    background-color: #ffffff;
+    width: 980px;
+    margin: 0 auto;
+}
+
+.menu-urls {
+    height: 80px;
+    border-bottom: 3px solid #efefef;
+}
+
+.menu ul li {
+    display: inline-block;
+    color: #8b8b8b;
+    margin-left: 15px;
+}
+
+.menu ul li a {
+    display: inline-block;
+    color: #8b8b8b;
+    text-decoration: none; /* retira o estilo da letra*/
+    font-size: 18px; /* tamanho da letra*/
+    text-transform: uppercase; /* todas as letras maiusculas*/
+}
+
+.menu {
+    width: 70%;
+    float: left;
+}
+
+.busca {
+    width: 30%;
+    float: left;
+}
+
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
