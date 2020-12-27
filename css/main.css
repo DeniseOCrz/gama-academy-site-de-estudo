@@ -10,7 +10,7 @@ ul {
     padding: 0px !important;
 }
 
-.menu-principal {
+.menu-principal { /* menu com as redes sociais*/
     width: 100%;
     /*largura da tela*/
     background-color: #252323;
@@ -19,7 +19,7 @@ ul {
     /*altura*/
 }
 
-main {
+main, .content {
     margin: 0 auto;
     /* centralizar o container */
     width: 980px;
@@ -83,7 +83,7 @@ main {
     color: #8b8b8b;
     text-decoration: none;
     /* retira o estilo da letra*/
-    font-size: 18px;
+    font-size: 17px;
     /* tamanho da letra*/
     text-transform: uppercase;
     /* todas as letras maiusculas*/
@@ -158,8 +158,8 @@ button.slick-next {
 .slick-dots li button {
     font-size: 0px;
     border: 5px solid #ffffff;
-    width: 26px;
-    height: 26px;
+    width: 22px;
+    height: 22px;
     background: transparent ;
     border-radius: 50%;
     cursor: pointer;   
@@ -179,6 +179,24 @@ li.slick-active button {
 
 .slick-dots li {
     padding: 10px;
-    display: inline-block;
-    
+    display: inline-block;    
+}
+
+.texto-destaque {
+    text-align: center;
+}
+
+.texto-destaque h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #818181;
+}
+
+.texto-destaque strong {
+    color: #646464;
+}
+
+.texto-destaque p {
+    color: #9a9a9a;
+    font-size: 15px;
 }
