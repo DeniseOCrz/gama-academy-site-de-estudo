@@ -147,7 +147,7 @@ button.slick-next {
     right: 16%;
 }
 
-.slider-principal {
+.slick-list {
     width: 100% !important;
 }
 
@@ -155,7 +155,7 @@ button.slick-next {
     overflow: hidden;
 }
 
-ul.slick-dots li button {
+.slick-dots li button {
     font-size: 0px;
     border: 5px solid #ffffff;
     width: 26px;
@@ -169,7 +169,7 @@ ul.slick-dots li button {
     margin: 0 auto;
     width: 50%;
     position: absolute;
-    left: 45%;
+    left: 43%;
     top: 410px;    
 }
 
@@ -177,7 +177,7 @@ li.slick-active button {
     background: #00bac6;
 }
 
-ul.slick-dots li {
+.slick-dots li {
     padding: 10px;
     display: inline-block;
     
