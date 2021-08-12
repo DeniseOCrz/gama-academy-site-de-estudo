@@ -30,3 +30,5 @@ Analisar o uso dos módulos:
 1.	Banco de dados (SQL)
 2.	Matemática e estatística 
 
+https://forms.office.com/pages/responsepage.aspx?id=oGkWWT8YpUmY9Jqg0LY9gVaYHc98bFRBpH6w3BRa5yxURU1WTDVMMFdGSllNODM4QUlZWkJDMTRSRS4u
+
