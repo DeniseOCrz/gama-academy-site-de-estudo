@@ -234,6 +234,8 @@ h1 {
     background-image: url('../img/setinha.png');
     background-repeat: no-repeat;
     background-position: center;
+    padding-left: 15px;
+    
 }
 .bloco-imagens-texto:after {
     width: 100%;
